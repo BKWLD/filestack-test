@@ -4,8 +4,8 @@ Test that a server can dial out to Filestack's API.
 
 ## Installation
 
-1. Run `composer install` from this directory
-2. Rename `.env.sample` to `.env` and set your API key and secret
+1. Run `composer install` from this directory to install package dependencies..
+2. Rename `.env.sample` to `.env` and set your API key and secret.
 
 ## Usage
 
